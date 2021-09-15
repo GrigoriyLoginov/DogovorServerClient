@@ -109,6 +109,3 @@ INSERT INTO Dogovor (DOG_NO, DOG_DATE, LAST_UPDATE)
   SET @i=@i-1;
 END
 GO
-
-
-Provider=SQLNCLI11;Data Source=PC050\SQLEXPRESS;Integrated Security=SSPI;Initial Catalog=TestBars
