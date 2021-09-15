@@ -1,0 +1,15 @@
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\bin\Debug\DogovorApp.exe.config
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\bin\Debug\DogovorApp.exe
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\bin\Debug\DogovorApp.pdb
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\obj\Debug\DogovorApp.csprojAssemblyReference.cache
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\obj\Debug\MainWindow.g.cs
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\obj\Debug\App.g.cs
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\obj\Debug\DogovorApp_MarkupCompile.cache
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\obj\Debug\DogovorApp_MarkupCompile.lref
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\obj\Debug\MainWindow.baml
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\obj\Debug\DogovorApp.g.resources
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\obj\Debug\DogovorApp.Properties.Resources.resources
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\obj\Debug\DogovorApp.csproj.GenerateResource.cache
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\obj\Debug\DogovorApp.csproj.CoreCompileInputs.cache
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\obj\Debug\DogovorApp.exe
+C:\Users\gloginov\source\repos\DogovorApp\DogovorApp\obj\Debug\DogovorApp.pdb

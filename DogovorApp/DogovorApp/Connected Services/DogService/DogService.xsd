@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/DogService" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/DogService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Dogovor">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ACTUAL" type="xs:boolean" />
+      <xs:element minOccurs="0" name="DOG_DATE" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="DOG_NO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ID" type="xs:int" />
+      <xs:element minOccurs="0" name="LAST_UPDATE" type="xs:dateTime" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Dogovor" nillable="true" type="tns:Dogovor" />
+  <xs:complexType name="ArrayOfDogovor">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Dogovor" nillable="true" type="tns:Dogovor" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDogovor" nillable="true" type="tns:ArrayOfDogovor" />
+</xs:schema>

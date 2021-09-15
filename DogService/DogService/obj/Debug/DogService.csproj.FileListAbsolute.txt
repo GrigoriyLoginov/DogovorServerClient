@@ -1,0 +1,5 @@
+C:\Users\gloginov\source\repos\DogService\DogService\obj\Debug\DogService.csproj.CoreCompileInputs.cache
+C:\Users\gloginov\source\repos\DogService\DogService\bin\Debug\DogService.dll
+C:\Users\gloginov\source\repos\DogService\DogService\bin\Debug\DogService.pdb
+C:\Users\gloginov\source\repos\DogService\DogService\obj\Debug\DogService.dll
+C:\Users\gloginov\source\repos\DogService\DogService\obj\Debug\DogService.pdb

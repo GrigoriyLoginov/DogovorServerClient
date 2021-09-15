@@ -1,0 +1,10 @@
+C:\Users\gloginov\source\repos\DogService\DogHost\bin\Release\DogHost.exe.config
+C:\Users\gloginov\source\repos\DogService\DogHost\bin\Release\DogHost.exe
+C:\Users\gloginov\source\repos\DogService\DogHost\bin\Release\DogHost.pdb
+C:\Users\gloginov\source\repos\DogService\DogHost\bin\Release\DogService.dll
+C:\Users\gloginov\source\repos\DogService\DogHost\bin\Release\DogService.pdb
+C:\Users\gloginov\source\repos\DogService\DogHost\obj\Release\DogHost.csprojAssemblyReference.cache
+C:\Users\gloginov\source\repos\DogService\DogHost\obj\Release\DogHost.csproj.CoreCompileInputs.cache
+C:\Users\gloginov\source\repos\DogService\DogHost\obj\Release\DogHost.csproj.CopyComplete
+C:\Users\gloginov\source\repos\DogService\DogHost\obj\Release\DogHost.exe
+C:\Users\gloginov\source\repos\DogService\DogHost\obj\Release\DogHost.pdb
